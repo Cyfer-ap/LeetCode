@@ -26,4 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Cyfer-ap/LeetCode/tree/master/0038-count-and-say) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
