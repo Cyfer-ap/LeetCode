@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/Cyfer-ap/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Cyfer-ap/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Cyfer-ap/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
