@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
+| [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
