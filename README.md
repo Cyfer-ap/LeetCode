@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Cyfer-ap/LeetCode/tree/master/0191-number-of-1-bits) |
