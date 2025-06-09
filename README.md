@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/Cyfer-ap/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Cyfer-ap/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Cyfer-ap/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cyfer-ap/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Cyfer-ap/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cyfer-ap/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
