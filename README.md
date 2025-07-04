@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Cyfer-ap/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Cyfer-ap/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Cyfer-ap/LeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
