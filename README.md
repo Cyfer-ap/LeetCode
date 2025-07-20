@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/Cyfer-ap/LeetCode/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Matrix
 |  |
@@ -159,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Cyfer-ap/LeetCode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Cyfer-ap/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Cyfer-ap/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
