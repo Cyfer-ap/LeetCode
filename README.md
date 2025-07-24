@@ -201,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Cyfer-ap/LeetCode/tree/master/0175-combine-two-tables) |
 | [1734-bank-account-summary-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
