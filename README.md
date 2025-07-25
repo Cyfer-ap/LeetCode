@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Cyfer-ap/LeetCode/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Cyfer-ap/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Cyfer-ap/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Cyfer-ap/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Cyfer-ap/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
