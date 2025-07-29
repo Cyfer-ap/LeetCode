@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Cyfer-ap/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Cyfer-ap/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Cyfer-ap/LeetCode/tree/master/1508-longest-happy-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
