@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
 | [0890-lemonade-change](https://github.com/Cyfer-ap/LeetCode/tree/master/0890-lemonade-change) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Cyfer-ap/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Cyfer-ap/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Cyfer-ap/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Cyfer-ap/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Cyfer-ap/LeetCode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Depth-First Search
