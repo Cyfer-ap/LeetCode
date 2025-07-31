@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Cyfer-ap/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Cyfer-ap/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Cyfer-ap/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Cyfer-ap/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cyfer-ap/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cyfer-ap/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
