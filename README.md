@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Cyfer-ap/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Cyfer-ap/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Cyfer-ap/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Cyfer-ap/LeetCode/tree/master/0198-house-robber) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Cyfer-ap/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Cyfer-ap/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Cyfer-ap/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0213-house-robber-ii) |
