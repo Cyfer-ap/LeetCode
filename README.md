@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Cyfer-ap/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Cyfer-ap/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Cyfer-ap/LeetCode/tree/master/0686-repeated-string-match) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Cyfer-ap/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
