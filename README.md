@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Cyfer-ap/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Cyfer-ap/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Cyfer-ap/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Cyfer-ap/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Cyfer-ap/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyfer-ap/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Cyfer-ap/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Cyfer-ap/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -339,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
