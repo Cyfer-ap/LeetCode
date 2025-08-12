@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Cyfer-ap/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cyfer-ap/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Cyfer-ap/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2808-painting-the-walls](https://github.com/Cyfer-ap/LeetCode/tree/master/2808-painting-the-walls) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Cyfer-ap/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cyfer-ap/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2808-painting-the-walls](https://github.com/Cyfer-ap/LeetCode/tree/master/2808-painting-the-walls) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Cyfer-ap/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Depth-First Search
