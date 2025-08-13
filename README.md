@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Cyfer-ap/LeetCode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Cyfer-ap/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Cyfer-ap/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Cyfer-ap/LeetCode/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
