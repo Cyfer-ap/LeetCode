@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Cyfer-ap/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1489-pizza-with-3n-slices](https://github.com/Cyfer-ap/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1813-maximum-erasure-value](https://github.com/Cyfer-ap/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Cyfer-ap/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1489-pizza-with-3n-slices](https://github.com/Cyfer-ap/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2808-painting-the-walls](https://github.com/Cyfer-ap/LeetCode/tree/master/2808-painting-the-walls) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Cyfer-ap/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Cyfer-ap/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1489-pizza-with-3n-slices](https://github.com/Cyfer-ap/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Cyfer-ap/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cyfer-ap/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1489-pizza-with-3n-slices](https://github.com/Cyfer-ap/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Trie
 |  |
