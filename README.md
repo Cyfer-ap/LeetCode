@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Cyfer-ap/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Cyfer-ap/LeetCode/tree/master/0051-n-queens) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cyfer-ap/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Cyfer-ap/LeetCode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
 ## Heap (Priority Queue)
