@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Cyfer-ap/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Cyfer-ap/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
 ## Simulation
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Cyfer-ap/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Cyfer-ap/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Cyfer-ap/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 ## Counting
 |  |
 | ------- |
