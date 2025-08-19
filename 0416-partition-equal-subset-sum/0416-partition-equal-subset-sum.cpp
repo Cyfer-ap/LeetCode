@@ -1,25 +1,25 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int total = 0;
-        for (int x : nums) total += x;
+        int total = accumulate(nums.begin(), nums.end(), 0);
+        if (total & 1) return false;
+        int T = total / 2;
+        int n = (int)nums.size();
 
-        if (total & 1) return false;      // must be even
-        int target = total / 2;
+        vector<vector<int8_t>> dp(n, vector<int8_t>(T + 1, -1));
 
-        // If any element is greater than target, impossible
-        for (int x : nums) if (x > target) return false;
+        function<int8_t(int,int)> dfs = [&](int i, int need) -> int8_t {
+            if (need == 0) return 1;
+            if (i < 0)     return 0;
+            int8_t &res = dp[i][need];
+            if (res != -1) return res;
 
-        vector<char> dp(target + 1, 0);   // dp[s] = can we make sum s?
-        dp[0] = 1;
+            if (dfs(i - 1, need)) return res = 1;
+            if (nums[i] <= need && dfs(i - 1, need - nums[i])) return res = 1;
 
-        for (int x : nums) {
-            for (int s = target; s >= x; --s) {
-                if (!dp[s] && dp[s - x]) dp[s] = 1;
-            }
-            if (dp[target]) return true;  // early exit
-        }
-        return dp[target];
+            return res = 0;
+        };
+
+        return dfs(n - 1, T);
     }
 };
-
