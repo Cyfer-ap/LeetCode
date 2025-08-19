@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Cyfer-ap/LeetCode/tree/master/0278-first-bad-version) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Cyfer-ap/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -399,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Cyfer-ap/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Cyfer-ap/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
