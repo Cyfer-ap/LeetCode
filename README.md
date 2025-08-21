@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Cyfer-ap/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Cyfer-ap/LeetCode/tree/master/0183-customers-who-never-order) |
 | [1734-bank-account-summary-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/1734-bank-account-summary-ii) |
+| [2041-the-latest-login-in-2020](https://github.com/Cyfer-ap/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 ## Tree
 |  |
 | ------- |
