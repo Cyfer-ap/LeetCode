@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Cyfer-ap/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Cyfer-ap/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Cyfer-ap/LeetCode/tree/master/0051-n-queens) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Cyfer-ap/LeetCode/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Cyfer-ap/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Cyfer-ap/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
