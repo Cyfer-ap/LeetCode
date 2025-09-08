@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Cyfer-ap/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Cyfer-ap/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0090-subsets-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Cyfer-ap/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Cyfer-ap/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Cyfer-ap/LeetCode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Cyfer-ap/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Cyfer-ap/LeetCode/tree/master/0278-first-bad-version) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
