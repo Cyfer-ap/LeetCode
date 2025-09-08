@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Cyfer-ap/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0890-lemonade-change](https://github.com/Cyfer-ap/LeetCode/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Cyfer-ap/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Cyfer-ap/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Cyfer-ap/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Cyfer-ap/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Cyfer-ap/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Cyfer-ap/LeetCode/tree/master/0686-repeated-string-match) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Cyfer-ap/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Cyfer-ap/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Cyfer-ap/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cyfer-ap/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Cyfer-ap/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -321,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Cyfer-ap/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Binary Search
@@ -329,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Cyfer-ap/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Cyfer-ap/LeetCode/tree/master/0278-first-bad-version) |
+| [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Cyfer-ap/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Cyfer-ap/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
