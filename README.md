@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Cyfer-ap/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Cyfer-ap/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cyfer-ap/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Cyfer-ap/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Cyfer-ap/LeetCode/tree/master/2481-strictly-palindromic-number) |
