@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Cyfer-ap/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Cyfer-ap/LeetCode/tree/master/1642-water-bottles) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cyfer-ap/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/Cyfer-ap/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Cyfer-ap/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Cyfer-ap/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cyfer-ap/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2808-painting-the-walls](https://github.com/Cyfer-ap/LeetCode/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cyfer-ap/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Cyfer-ap/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cyfer-ap/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cyfer-ap/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Stack
 |  |
 | ------- |
