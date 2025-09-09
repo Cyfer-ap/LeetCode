@@ -1,31 +1,22 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        long long total = 0;
-        for (int x : nums) total += x;
+        int n = nums.size();
+        int total = 0;
+        for (int num : nums) total+=num;
 
-        if (llabs((long long)target) >total) return 0;
-        long long tmp = target + total;
-        if (tmp & 1LL) return 0;
+        if(abs(target) > total || (target + total) %2 != 0) return 0;
 
-        int want = (int)(tmp/2);
-        vector<long long> dp(want + 1, 0);
+        int ss = (target+total) / 2;
+
+        vector<int> dp(ss+1, 0);
         dp[0] = 1;
 
-        int zeros = 0;
-        for (int x : nums) {
-            if (x==0) {
-                ++zeros;
-                continue;
-            }
-            for (int s=want; s >= x; --s) {
-                dp[s] += dp[s - x];
+        for(int num : nums){
+            for(int j = ss; j >= num; j--){
+                dp[j] += dp[j-num];
             }
         }
-        long long ways = dp[want];
-        while (zeros--) {
-            ways <<= 1;
-        }
-        return ways;
+        return dp[ss];
     }
 };
