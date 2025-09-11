@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Cyfer-ap/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Cyfer-ap/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Cyfer-ap/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Cyfer-ap/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Cyfer-ap/LeetCode/tree/master/0455-assign-cookies) |
 | [0808-number-of-matching-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/Cyfer-ap/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cyfer-ap/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Cyfer-ap/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
