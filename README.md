@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cyfer-ap/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Cyfer-ap/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2808-painting-the-walls](https://github.com/Cyfer-ap/LeetCode/tree/master/2808-painting-the-walls) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Cyfer-ap/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cyfer-ap/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cyfer-ap/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Cyfer-ap/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Cyfer-ap/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Cyfer-ap/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cyfer-ap/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Cyfer-ap/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Cyfer-ap/LeetCode/tree/master/3827-implement-router) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Cyfer-ap/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Cyfer-ap/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bitmask
 |  |
 | ------- |
