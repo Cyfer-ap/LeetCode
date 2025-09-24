@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Cyfer-ap/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cyfer-ap/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Cyfer-ap/LeetCode/tree/master/0036-valid-sudoku) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Cyfer-ap/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/Cyfer-ap/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Cyfer-ap/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Cyfer-ap/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Cyfer-ap/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Cyfer-ap/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Cyfer-ap/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Cyfer-ap/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Cyfer-ap/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Cyfer-ap/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Cyfer-ap/LeetCode/tree/master/0326-power-of-three) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Cyfer-ap/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Cyfer-ap/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Cyfer-ap/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Cyfer-ap/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Cyfer-ap/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0474-ones-and-zeroes](https://github.com/Cyfer-ap/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Cyfer-ap/LeetCode/tree/master/0678-valid-parenthesis-string) |
